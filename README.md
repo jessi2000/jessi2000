@@ -6,23 +6,9 @@
   
 <td>
 
-<tr>
-  
-<td>
 
-<tr>
-  
-<td>
+<table border="700" align="right" height=29>
 
-<table border="700" align="right">
-
-</td>
-
-</tr>
-
-</td>
-
-</tr>
 
 </td>
 
