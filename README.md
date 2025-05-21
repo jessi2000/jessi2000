@@ -4,6 +4,3 @@
 
 </h1>
 
-<h6>
-<a href="https://example.com"><table border="17111111" align="right"></table></a>
-</h6>
