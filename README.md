@@ -1,9 +1,10 @@
-<a href="https://example.com">
- 
-  <h1>
-  
-  <table border="10000000" align="center"><tr><td>⠀</td></tr></table>
+<h1>
+  <blockquote>
+    <a href="https://example.com">
+      <table border="14444" align="right">
+        <tr><td> </td></tr>
+      </table>
+    </a>
+  </blockquote>
+</h1>
 
-  </h1>
-  
-</a>
