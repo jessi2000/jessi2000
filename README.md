@@ -1,3 +1,4 @@
+<img>
 <h6>
 
 <a href="https://example.com">
@@ -7,3 +8,4 @@
 </a>
 
 </h6>
+</img>
