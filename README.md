@@ -1,7 +1,5 @@
-<h6>
-  <a href="https://example.com">
-    <table border="700" align="center"></table>
-  </a>
-</h6>
+<a href="https://example.com">
+  <img src="https://via.placeholder.com/1x1" border="700" align="right">
+</a>
 
 
