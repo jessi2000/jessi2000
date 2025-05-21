@@ -1,1 +1,1 @@
-<div dir="rtl" style="width: 999999999">text</div>
+<div dir="rtl"width: 999999999">text</div>
