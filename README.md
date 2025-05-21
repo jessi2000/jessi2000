@@ -2,13 +2,13 @@
 
 <a href="https://example.com">
 
-<table border="99999" align="right">
+<img src="https://github.com/user-attachments/assets/a359eca7-ed11-40ad-907b-43ea97bca0ed">
   
 <tr>
   
 <td>
   
-<img src="https://github.com/user-attachments/assets/a359eca7-ed11-40ad-907b-43ea97bca0ed">
+<table border="700" align="right">
 
 </td>
 
