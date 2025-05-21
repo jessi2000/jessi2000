@@ -6,7 +6,7 @@
   
 <td>
 
-<table border="590" align="right">
+<table border="600" align="right">
 
 </td>
 
